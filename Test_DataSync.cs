@@ -18,7 +18,7 @@ using Common.DataContract;
 using CMS.PolicyLib.Entity;
 using CMS.PolicyLib.Extension;
 using CMS.ServiceFacade;
-//GIT Test *****
+//GIT Test *******
 namespace UTool.Test
 {
     public class Test_DataSync : UTest
