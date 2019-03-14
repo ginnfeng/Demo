@@ -1,7 +1,7 @@
 ////*************************Copyright © 2010 Sean Hsu**************************	
 // Created    : 7/28/2011 11:23:00 AM 
 // Description: Test_AccountService.cs  
-// Revisions  : Test AzureDevops           		
+// Revisions  : Test AzureDevops 2          		
 // **************************************************************************** 
 using System;
 using System.Collections.Generic;
