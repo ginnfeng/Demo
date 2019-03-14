@@ -3,7 +3,7 @@
 // Description: Test_ActiveMQ.cs  
 //http://activemq.apache.org/nms/examples.html
 //http://rantdriven.com/post/ActiveMQ-via-C-sharp-and-dotnet-using-ApacheNMS-Part-1.aspx
-// Revisions  :            		
+// Revisions  :  Test Azure DevOps          		
 // **************************************************************************** 
 using System;
 using System.Collections.Generic;
